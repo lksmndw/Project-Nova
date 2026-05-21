@@ -1,0 +1,1 @@
+fetch('wrong-api.com')
